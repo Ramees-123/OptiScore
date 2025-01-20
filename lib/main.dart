@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
                       fontSize: 30
                   ),)),
                   SizedBox(height: 20,),
-                  FadeInUp(duration: Duration(milliseconds: 1200), child: Text("Automatic identity verification which enables you to verify your identity",
+                  FadeInUp(duration: Duration(milliseconds: 1200), child: Text("",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                         color: Colors.grey[700],
